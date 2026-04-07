@@ -42,10 +42,11 @@ Développeur fullstack indépendant, je prends en charge des projets de A à Z -
 
 ## 🚀 Projets récents
 
-### 🍵 [Thé Tip Top (front)]([https://github.com/JoAnisky/the-tip-top-front](https://github.com/JoAnisky/the-tip-top-front))
-Application de jeu-concours 100 % open-source - Nuxt 4 SSR
+### 🍵 [Thé Tip Top - Front](https://github.com/JoAnisky/the-tip-top-front)
+Application de jeu-concours 100 % open-source - Nuxt 4 SSR.   
+Url du site : https://the-tip-top.jonathanlore.fr
 
-### 🍵 [Thé Tip Top (back)]([https://github.com/JoAnisky/the-tip-top-api](https://github.com/JoAnisky/the-tip-top-api))
+### 🍵 [Thé Tip Top - Back](https://github.com/JoAnisky/the-tip-top-api)
 Symfony 7 + API Platform, déployée sur K3s (Hostinger VPS) avec pipeline Jenkins, monitoring Grafana/Prometheus et sauvegardes de backups Restic.
 
 ### ⚙️ [Infrastructure K3s](https://github.com/JoAnisky/k8s)
