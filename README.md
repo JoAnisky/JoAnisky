@@ -4,13 +4,9 @@
 
 *Je construis des applications web robustes, du front jusqu'à l'infra - parce qu'un code qu'on comprend, c'est un code qu'on maîtrise.*
 
-## 🌲 Qui suis-je ?
+## 🧑‍💻 Qui suis-je ?
 
-Développeur fullstack indépendant, je travaille sur des projets allant de l'application métier sur-mesure aux architectures Kubernetes cloud-native.
-
-Je suis convaincu qu'un bon développeur est d'abord quelqu'un qui **comprend** - les patterns, les compromis, les raisons derrière les choix techniques. L'IA m'aide à aller plus vite, pas à réfléchir à ma place.
-
-Actuellement en Master *Expert en Stratégie & Transformation Digitale*, je continue d'affiner ma vision technique autant que stratégique.
+Développeur fullstack indépendant, je prends en charge des projets de A à Z - du composant front à l'infra cloud. Je code avec curiosité, méthode, et une conviction : **comprendre ce qu'on construit, et pourquoi on le construit c'est la base de tout.**
 
 ---
 
