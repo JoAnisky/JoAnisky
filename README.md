@@ -2,9 +2,7 @@
 
 **Développeur fullstack · Freelance**
 
-*Je construis des applications web robustes, du front jusqu'à l'infra — parce qu'un code qu'on comprend, c'est un code qu'on maîtrise.*
-
----
+*Je construis des applications web robustes, du front jusqu'à l'infra - parce qu'un code qu'on comprend, c'est un code qu'on maîtrise.*
 
 ## 🌲 Qui suis-je ?
 
